@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+#root {
+  width: 100%;
+  min-height: 100svh;
+  display: flex;
+  justify-content: center;
+}
+
+@media (min-width: 551px) {
+  .PlansPage .header-box,
+  .pull-refresh {
+    max-width: 400px;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+}

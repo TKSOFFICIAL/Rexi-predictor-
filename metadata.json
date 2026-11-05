@@ -1,0 +1,6 @@
+{
+  "name": "ReXx PREDICTOR 5.0",
+  "description": "ReXx PREDICTOR 5.0 with animated gatekeeper lock, key verification, premium plans, game hub, and real-time WinGo prediction engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
